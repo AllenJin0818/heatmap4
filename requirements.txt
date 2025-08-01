@@ -1,0 +1,10 @@
+voila
+pandas
+numpy
+scipy
+requests
+matplotlib
+ipywidgets
+ipyleaflet
+ipykernel
+ipython
